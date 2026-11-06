@@ -1,0 +1,146 @@
+[
+  {
+    "id": "r01",
+    "autor": "Lucía Paredes",
+    "fecha": "2026-02-11",
+    "texto": "Entré hace un año y fue lo mejor que me pasó. La cuota de 4.500 pesos es muy razonable para tener parcela y talleres gratis. Me encanta el compostaje comunitario."
+  },
+  {
+    "id": "r02",
+    "autor": "Tomás Rivarola",
+    "fecha": "2026-03-02",
+    "texto": "La lista de espera para una parcela individual es eterna: llevo cuatro meses y sigo sin lugar. Mientras tanto pago la cuota completa. Me parece injusto y muy frustrante."
+  },
+  {
+    "id": "r03",
+    "autor": "Graciela Montenegro",
+    "fecha": "2026-03-15",
+    "texto": "Soy jubilada y la cuota reducida de 2.500 pesos me permite seguir participando. Un gesto hermoso de la cooperativa, estoy muy agradecida."
+  },
+  {
+    "id": "r04",
+    "autor": "Federico Aguirre",
+    "fecha": "2026-03-28",
+    "texto": "Las 8 horas mensuales de trabajo comunitario son razonables, aunque me cuesta coordinarlas con mi trabajo. Los talleres están bien, ni más ni menos."
+  },
+  {
+    "id": "r05",
+    "autor": "Camila Sosa",
+    "fecha": "2026-04-09",
+    "texto": "Hice el taller de huerta en balcones con Sofía Benítez y fue excelente. Explica con paciencia y ya tengo tomates cherry en mi departamento. Súper recomendable."
+  },
+  {
+    "id": "r06",
+    "autor": "Nicolás Barrionuevo",
+    "fecha": "2026-04-20",
+    "texto": "No poder vender nada de lo que cosecho en mi parcela no tiene ningún sentido. Producir de más y no poder aprovecharlo es una regla absurda y desmotivante."
+  },
+  {
+    "id": "r07",
+    "autor": "Valeria Ledesma",
+    "fecha": "2026-05-03",
+    "texto": "El banco de semillas es un tesoro: pude llevarme semillas de tomate corazón de buey y zapallo anco. Me encanta que cuiden las variedades criollas."
+  },
+  {
+    "id": "r08",
+    "autor": "Ignacio Pereyra",
+    "fecha": "2026-05-18",
+    "texto": "El riego por turnos es un desastre en verano. Con prohibición de aspersores y solo tres días por semana, mis plantas sufren y el tanque no alcanza. Muy decepcionante."
+  },
+  {
+    "id": "r09",
+    "autor": "Ana Beltrán",
+    "fecha": "2026-06-01",
+    "texto": "La charla de bienvenida fue cálida y los 60 días de prueba me parecieron justos para conocer el lugar. Gente muy amable, me sentí bienvenida desde el primer día."
+  },
+  {
+    "id": "r10",
+    "autor": "Joaquín Cabrera",
+    "fecha": "2026-06-14",
+    "texto": "La cuota de ingreso de 8.000 pesos me pareció algo alta, pero se entiende por lo que ofrece el lugar. En general funciona bien."
+  },
+  {
+    "id": "r11",
+    "autor": "Rocío Vera",
+    "fecha": "2026-06-27",
+    "texto": "La secretaría solo abre martes y jueves de 18 a 20 y es imposible hacer trámites si trabajás en ese horario. Pésima organización administrativa."
+  },
+  {
+    "id": "r12",
+    "autor": "Esteban Ortiz",
+    "fecha": "2026-07-05",
+    "texto": "La jornada comunitaria del último sábado con almuerzo compartido es genial. Se trabaja, se charla y se come rico. Lo mejor del mes."
+  },
+  {
+    "id": "r13",
+    "autor": "Paula Domínguez",
+    "fecha": "2026-07-19",
+    "texto": "Entiendo que no se permitan mascotas por higiene y por los cultivos, aunque me gustaría poder llevar a mi perro. No es algo grave."
+  },
+  {
+    "id": "r14",
+    "autor": "Sebastián Luna",
+    "fecha": "2026-08-02",
+    "texto": "Soy vecino y llevé residuos a la compostera un sábado. Muy bien organizado, y me regalaron 2 kg de compost maduro. Excelente iniciativa para el barrio."
+  },
+  {
+    "id": "r15",
+    "autor": "Carolina Fuentes",
+    "fecha": "2026-08-16",
+    "texto": "Perdí mi parcela por acumular tres cuotas impagas en un momento difícil y no la pude recuperar. Me pareció una regla durísima y poco empática."
+  },
+  {
+    "id": "r16",
+    "autor": "Mateo Giménez",
+    "fecha": "2026-08-30",
+    "texto": "La actividad Huerta para las infancias es maravillosa: mis hijos aprenden sobre insectos benéficos y vuelven felices. Además es gratis. Gracias por el cariño."
+  },
+  {
+    "id": "r17",
+    "autor": "Daniela Quiroz",
+    "fecha": "2026-09-06",
+    "texto": "Fui a visitar un sábado. El predio es lindo, pero no pude entrar a las parcelas individuales y me falta información para decidir si me asocio."
+  },
+  {
+    "id": "r18",
+    "autor": "Héctor Salinas",
+    "fecha": "2026-09-13",
+    "texto": "Las asambleas son el primer domingo a las 10 de la mañana, un horario imposible para quien trabaja. Siempre deciden los mismos pocos y eso me desanima."
+  },
+  {
+    "id": "r19",
+    "autor": "Florencia Acosta",
+    "fecha": "2026-09-21",
+    "texto": "Atravesé un mal momento económico y el fondo solidario me dio una exención temporal de la cuota. Fue confidencial y respetuoso. Les estoy enormemente agradecida."
+  },
+  {
+    "id": "r20",
+    "autor": "Gonzalo Medina",
+    "fecha": "2026-09-28",
+    "texto": "La guía de cultivo es útil y el calendario de siembra ayuda, pero a veces las fechas no coinciden con las heladas reales. Sirve como referencia."
+  },
+  {
+    "id": "r21",
+    "autor": "Brenda Ríos",
+    "fecha": "2026-10-04",
+    "texto": "Me da orgullo que el 20 % de la cosecha comunitaria se done al comedor del barrio. Se nota el espíritu cooperativo. Una experiencia muy linda."
+  },
+  {
+    "id": "r22",
+    "autor": "Lautaro Espinosa",
+    "fecha": "2026-10-11",
+    "texto": "Los preparados naturales huelen espantoso y funcionan poco: perdí media parcela de tomates por la mosca blanca. Prohibir todo lo demás me parece un error."
+  },
+  {
+    "id": "r23",
+    "autor": "Milagros Herrera",
+    "fecha": "2026-10-18",
+    "texto": "Soy estudiante y con el certificado de alumno regular pago la cuota reducida. Pude sumarme sin problemas y estoy aprendiendo muchísimo. Fantástico."
+  },
+  {
+    "id": "r24",
+    "autor": "Ramón Villalba",
+    "fecha": "2026-10-25",
+    "texto": "Hace seis meses que soy socio. Cumplo mis horas, riego mi parcela y listo. Ni bueno ni malo, simplemente es lo que esperaba."
+  }
+]

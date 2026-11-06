@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-core
+langchain-ollama
+langchain-chroma
+langchain-community
+chromadb
+pydantic
+python-dotenv
+ipykernel
+jupyter
